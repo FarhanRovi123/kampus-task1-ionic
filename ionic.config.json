@@ -1,0 +1,7 @@
+{
+  "name": "tugasionic_install",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
